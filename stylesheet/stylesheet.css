@@ -134,3 +134,26 @@ blockquote  {
   margin-left: 10px;
   border-width: thin;
 }
+body {
+  font-family: Arial, sans-serif;
+}
+.aboutHeader {
+  background-color: #00aeed;
+  position: relative;
+  left: 8rem;
+  font-size: 16px;
+  color: #FFFFFF;
+  padding-top:2rem;
+  padding-bottom: 2rem;
+  padding-left: 8rem;
+  margin-left: -10rem;
+}
+.aboutSection-header {
+  color: #6ec6f1;
+  position: relative;
+  left: 6rem;
+}
+.about {
+  position: relative;
+  left: 6rem;
+}
