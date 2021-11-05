@@ -1,5 +1,4 @@
 
-
 .hidden {
   position: relative;
   left: -10000px;
@@ -70,8 +69,8 @@ a {
   padding-bottom: 2rem;
 }
 .link {
-  padding: .5rem;
-  margin: .5rem;
+  padding: .1rem;
+  margin: .1rem;
   color: #121212;
   text-decoration: none;
   font-family: Arial, sans-serif;
